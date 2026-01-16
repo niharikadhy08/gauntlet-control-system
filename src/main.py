@@ -1,5 +1,3 @@
-# RUN THE PROJECT : 1. ctrl + ~ (open terminal)   2.python -u "c:\Users\Niharika\OneDrive\Desktop\gauntlet-control-system\src\main.py"
-
 import cv2
 from hand_detector import HandDetector
 from gesture_logic import fingers_up
