@@ -1,8 +1,8 @@
-# 🧤 Gauntlet Control System
+# Gauntlet Control System
 
 A **computer vision–based hand gesture control system** inspired by the **Infinity Gauntlet** from Marvel’s *Avengers*.
 
-This project uses **MediaPipe**, **OpenCV**, and **Pygame** to detect hand gestures in real time using a webcam and map them to **Infinity Stones, Gauntlet states, images, and sound effects** — creating an interactive, demo-ready experience.
+This project uses **MediaPipe**, **OpenCV**, and **Pygame** to detect hand gestures in real time using a webcam and map them to **Infinity Stones, Gauntlet states, images, and sound effects** - creating an interactive, demo-ready experience.
 
 ---
 
