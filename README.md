@@ -86,30 +86,6 @@ gauntlet-control-system/
 
 ---
 
-## How to Run
-
-### 1️⃣ Activate virtual environment
-
-```
-venv\Scripts\activate
-```
-
-### 2️⃣ Install dependencies
-
-```
-python -m pip install opencv-python mediapipe pygame
-```
-
-### 3️⃣ Run the project
-
-```
-python src/main.py
-```
-
-Press **ESC** to exit the application.
-
----
-
 ## Demo Usage Tips
 
 * For **accurate finger detection**, keep the **back side of your palm facing the camera** (palm facing away)
